@@ -1,0 +1,17 @@
+metlibs-tseries-pumet (5.1.0-2) unstable; urgency=low
+
+  * added pkg-config to debian/control Build-Depends
+
+ -- Alexander Bürger <alexander.buerger@met.no>  Thu, 26 May 2016 09:00:00 +0200
+
+metlibs-tseries-pumet (5.1.0-1) unstable; urgency=low
+
+  * removed puTools/miString
+
+ -- Alexander Bürger <alexander.buerger@met.no>  Tue, 04 Apr 2016 14:00:00 +0200
+
+metlibs-tseries-pumet (5.0.0-1) unstable; urgency=low
+
+  * Split from all-in-one metlibs
+
+ -- Alexander Carl Friedrich Bürger <alexander.buerger@met.no>  Thu, 06 Feb 2014 09:54:18 +0100
